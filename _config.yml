@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Soohan Bae"
-  avatar           : "profile.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://raw.githubusercontent.com/shawnbae/shawnbae.github.io/master/assets/images/profile.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Junior Data Scientist"
   location         : "Seoul, South Korea"
   email            : "tngks0315@naver.com"
